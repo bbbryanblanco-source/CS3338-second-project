@@ -1,0 +1,45 @@
+commit 248e100197fe50828555f0656ce04dc035edc271
+Merge: 97e62de 46e60ac
+Author: Bryan Blanco <bb.bryanblanco@gmail.com>
+Date:   Thu Sep 10 19:14:23 2026 -0700
+
+    Resolve merge conflict
+
+commit 46e60ac0af450b0d4d95b7b346d5581dbb9c20a4
+Author: Bryan Blanco <bb.bryanblanco@gmail.com>
+Date:   Thu Sep 10 19:08:15 2026 -0700
+
+    Add favorite movie or game div
+
+commit 97e62decfc41700d22cd514ef26883607710dd10
+Author: Bryan Blanco <bb.bryanblanco@gmail.com>
+Date:   Thu Sep 10 19:03:12 2026 -0700
+
+    Add favorite food div
+
+commit 1c70110f7b9f46dc9ea63a66182b2aed996e9485
+Author: Bryan Blanco <bb.bryanblanco@gmail.com>
+Date:   Thu Sep 10 18:16:04 2026 -0700
+
+    Add README
+
+commit b89d0dbb0de23c2a830018fcd99231ee02bd6d06
+Merge: 1d2bfc0 644e134
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 4 11:20:44 2026 -0700
+
+    Merge pull request #1 from bbbryanblanco-source/info-fill
+    
+    Added name and hobby
+
+commit 644e1342313b259b75b66c7c47bc5e0e8c4b3010
+Author: Bryan Blanco <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 4 11:07:46 2026 -0700
+
+    Added name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
